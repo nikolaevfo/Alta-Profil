@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c90aac5.chunk.css",
+    "main.js": "/static/js/main.c85ffc46.chunk.js",
+    "main.js.map": "/static/js/main.c85ffc46.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48f8607b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48f8607b.js.map",
+    "static/js/2.f22347b9.chunk.js": "/static/js/2.f22347b9.chunk.js",
+    "static/js/2.f22347b9.chunk.js.map": "/static/js/2.f22347b9.chunk.js.map",
+    "static/js/3.cb232f95.chunk.js": "/static/js/3.cb232f95.chunk.js",
+    "static/js/3.cb232f95.chunk.js.map": "/static/js/3.cb232f95.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7c90aac5.chunk.css.map": "/static/css/main.7c90aac5.chunk.css.map",
+    "static/js/2.f22347b9.chunk.js.LICENSE.txt": "/static/js/2.f22347b9.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/static/media/header-trubka.adb4cd29.svg",
+    "static/media/header-crovlya.672d1dbc.svg": "/static/media/header-crovlya.672d1dbc.svg",
+    "static/media/header-drenag.0960486e.svg": "/static/media/header-drenag.0960486e.svg",
+    "static/media/intro-after.e025360e.png": "/static/media/intro-after.e025360e.png",
+    "static/media/intro-before.0714f5ae.png": "/static/media/intro-before.0714f5ae.png",
+    "static/media/Intro.css": "/static/media/intro-slider2.3df766e5.png",
+    "static/media/logo.0e08c396.svg": "/static/media/logo.0e08c396.svg",
+    "static/media/Colors.css": "/static/media/materials.5c041078.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48f8607b.js",
+    "static/js/2.f22347b9.chunk.js",
+    "static/css/main.7c90aac5.chunk.css",
+    "static/js/main.c85ffc46.chunk.js"
+  ]
+}
